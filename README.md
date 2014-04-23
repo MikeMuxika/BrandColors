@@ -1,14 +1,13 @@
-BrandColors
+This is a very self explanatory file. Download it, fork it or make requests to add or fix a color. It is licensed under the MIT License. So use it however you will.
+
+BrandColors.less
 ===========
 
 Less File containing various brand color media queries for use in your projects.
 
 The project is organized in sections according to relevence.
 
-This is a very self explanatory file. Download it, fork it or make requests to add or fix a color. It is licensed under the MIT License. So use it however you will.v
-
 <h3>  EX: </h3>
-===========
 <code>
 //Blogging & Social
 </code>
@@ -16,7 +15,7 @@ This is a very self explanatory file. Download it, fork it or make requests to a
 <code>
 @bebo: #EE1010; //Bebo Red
 </code>
-
+===========
 
 <h3>Color Key</h3>
 ===========
@@ -36,6 +35,11 @@ This is a very self explanatory file. Download it, fork it or make requests to a
 <p>gr = grey</p>
 </p>
 
+
+BrandClasses.less
+===========
+
+Is a less file giving a class name to each variable in brandColors.less
 
 <h3>Enjoy!</h3>
 ===========
