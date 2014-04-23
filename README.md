@@ -1,9 +1,13 @@
 This is a very self explanatory file. Download it, fork it or make requests to add or fix a color. It is licensed under the MIT License. So use it however you will.
 
-BrandColors.less
+BrandColors
 ===========
+Provides two less files containing most major brand color variables in brandColors.less and class names to call each variable in brandClasses.less!
 
-Less File containing various brand color media queries for use in your projects.
+Add to the folder used for storing less files to be compiled with your less precompiler. 
+
+
+Less File containing various brand color variables for use in your projects.
 
 The project is organized in sections according to relevence.
 
