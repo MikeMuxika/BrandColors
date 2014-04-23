@@ -7,25 +7,35 @@ The project is organized in sections according to relevence.
 
 This is a very self explanatory file. Download it, fork it or make requests to add or fix a color. It is licensed under the MIT License. So use it however you will.v
 
-  EX: //Blogging & Social
-        @bebo: #EE1010; //Bebo Red
-        @blogger: #F57d00;
-        @facebook: #3B5998; //FB Blue
-        @facebook_lbl: #6484B5; //FB Light Blue
+<h3>  EX: </h3>
+===========
+<code>
+//Blogging & Social
+</code>
+<br />
+<code>
+@bebo: #EE1010; //Bebo Red
+</code>
 
-Color Key
-  d (infront of anything means "Dark")
-  l (infront of anything means "Light")
-  bl = blue (Ex. of "l" and "d" prefix: lbl =light blue; dbl = dark blue (as referenced from above))
-  rd = red
-  gn = green
-  bn = brown
-  yl = yellow
-  pk = pink
-  or = ornge
-  tn= tan
-  wh = white
-  bk = black
-  gr = grey
 
-Enjoy!
+<h3>Color Key</h3>
+===========
+<p>
+<p>d (infront of anything means "Dark")</p>
+<p>l (infront of anything means "Light")</p>
+<p>bl = blue (Ex. of "l" and "d" prefix: lbl =light blue; dbl = dark blue (as referenced from above))</p>
+<p>rd = red</p>
+<p>gn = green</p>
+<p>bn = brown</p>
+<p>yl = yellow</p>
+<p>pk = pink</p>
+<p>or = ornge</p>
+<p>tn= tan</p>
+<p>wh = white</p>
+<p>bk = black</p>
+<p>gr = grey</p>
+</p>
+
+
+<h3>Enjoy!</h3>
+===========
